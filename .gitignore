@@ -1,0 +1,7 @@
+java-annotation-processor/.idea
+*.class
+*.lst
+magic-moja/.idea
+magic-moja/target/magic-moja-1.0-SNAPSHOT.jar
+magic-moja/target/surefire-reports/com.kkj.AppTest.txt
+magic-moja/target/surefire-reports/TEST-com.kkj.AppTest.xml
